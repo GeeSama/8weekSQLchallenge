@@ -18,6 +18,7 @@ My goal is to put my SQL knowledge to the test and fill the gaps where necessary
 I am adding my own twist to the challenge where I will be answering the questions in Python in addition to SQL with the caveat:
 * This approach has helped me work through and solidify my understanding of SQL sytnax structure.
 * The answers I provide may not be the only way to solve the questions and there may be more efficient ways at deriving the same results. 
+* I may have answered a question incorrectly or missed something, if so please let me know so that I can re-work the problem or learn something new.
 
 - - - - -
 ### Case Studies:
