@@ -25,7 +25,7 @@ I am adding my own twist to the challenge where I will be answering the question
 ###### Click on the hyperlink below to navigate to the completed notebook
 
 1. :white_check_mark:  [Danny's Diner](dannys_diner.ipynb)
-2. :x:  Pizza Runner
+2. :x:  Pizza Runner [In Progress...](pizza_runner.ipynb)
 3. :x:  Foodie-Fi
 4. :x:  Data Bank
 5. :x:  Data Mart
